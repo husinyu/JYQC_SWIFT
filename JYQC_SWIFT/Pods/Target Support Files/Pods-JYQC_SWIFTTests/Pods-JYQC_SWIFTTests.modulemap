@@ -1,0 +1,6 @@
+framework module Pods_JYQC_SWIFTTests {
+  umbrella header "Pods-JYQC_SWIFTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
